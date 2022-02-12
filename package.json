@@ -1,0 +1,16 @@
+{
+  "name": "synccalendars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama Altaf",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "googleapis": "^92.0.0",
+    "mysql": "^2.18.1"
+  }
+}
